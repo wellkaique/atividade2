@@ -9,3 +9,6 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"&gt;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"&gt;
 </div>
+
+
+<img src="caminho/para/sua/imagem.jpg" alt="Descrição da imagem" width="300" height="300">
